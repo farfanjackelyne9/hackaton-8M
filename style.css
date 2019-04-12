@@ -6,25 +6,23 @@
 .icono{
          position: absolute;
          width: 4%;
-         left: 12px;
-         top: 14px; 
+         left:20px;
+         top: 17px; 
          font-size: 50px;
+         color: rgba(145, 125, 125, 0.8);
          
 } 
 .titulo{
-width: 100%;
- padding-top: 13%; 
-
-
-
-font-size: 40px;
-
-
-color: rgba(0, 0, 0, 0.8);
+  width: 100%;
+  padding-top: 13%; 
+  font-size: 70px;
+  font-family: "Latin Modern Roman 10";
+  font-style: oblique;
+  color: rgba(247, 240, 240, 0.8);
 }
 body{
-    background-image:url("https://i.ibb.co/Ykyxr2H/Whats-App-Image-2019-03-30-at-4-49-31-PM.jpg");
-    background-size: cover;
+background-image:url("http://www.xup.in/pic,13570529/Fondo.jpg");
+background-size: cover;
 background-attachment: fixed;
 background-position: center; 
 background-repeat : no-repeat; 
@@ -34,3 +32,10 @@ text-align : center;
     display: none;
 }
 
+#video-principal{
+    /* width: 50%; */
+    padding-top: 13%;
+}
+.boxs{
+    padding-top: 15%;
+}
