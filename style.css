@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;  
+    box-sizing: border-box;
+  }
+.icono{
+         position: absolute;
+         width: 4%;
+         left: 12px;
+         top: 14px; 
+         font-size: 50px;
+         
+} 
+.titulo{
+width: 100%;
+ padding-top: 13%; 
+
+
+
+font-size: 40px;
+
+
+color: rgba(0, 0, 0, 0.8);
+}
+body{
+    background-image:url("https://i.ibb.co/Ykyxr2H/Whats-App-Image-2019-03-30-at-4-49-31-PM.jpg");
+    background-size: cover;
+background-attachment: fixed;
+background-position: center; 
+background-repeat : no-repeat; 
+text-align : center;
+}
+.none{
+    display: none;
+}
+
