@@ -39,3 +39,32 @@ text-align : center;
 .boxs{
     padding-top: 15%;
 }
+.pregun-{
+    margin-top: 0.5cm;
+    font-family: serif;
+    color: rgba(37, 28, 37, 0.877);;
+	min-height: 66px;
+	font-size: 1.5rem;
+	font-weight: 700;
+	margin-bottom: 1rem;
+    padding: .5rem;
+    background: rgba(248, 239, 239, 0.5)
+}
+.titulotest{
+    font-size: 50px;
+    color: rgb(250, 244, 244);
+}
+#preguntas{
+    width: 800px;
+    margin-top: 0.5cm;
+    margin-left: 280px; 
+    background-color:rgba(48, 43, 48, 0.247);
+    padding-top: 1%;
+}
+.boton{
+    background-color:#FFE4C4;
+    color:black;
+    margin:20px;
+    padding:10px 10px;
+    width:480px;
+}
