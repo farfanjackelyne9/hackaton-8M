@@ -42,13 +42,13 @@ text-align : center;
 .pregun-{
     margin-top: 0.5cm;
     font-family: serif;
-    color: rgba(37, 28, 37, 0.877);;
+    color: rgba(37, 28, 37, 0.877);
 	min-height: 66px;
 	font-size: 1.5rem;
 	font-weight: 700;
 	margin-bottom: 1rem;
     padding: .5rem;
-    background: rgba(248, 239, 239, 0.5)
+    background: rgba(248, 239, 239, 0.5);
 }
 .titulotest{
     font-size: 50px;
@@ -67,4 +67,55 @@ text-align : center;
     margin:20px;
     padding:10px 10px;
     width:480px;
+}
+.result{
+    width: 800px;
+    margin-top: 1.5cm;
+    font-family: serif;
+    font-size: 50px;
+    color: rgba(199, 160, 199, 0.877);
+    background-color:rgba(48, 43, 48, 0.247);
+    margin-left: 280px; 
+}
+input{
+    background-color:#FFE4C4;
+    color:black;
+    margin:20px;
+    padding:10px 10px;
+    width:80px;
+}
+.h1{
+    font-size: 35px;
+    color: rgb(250, 244, 244);
+    padding-top: 1%;
+}
+.cem1{
+    font-family: serif;
+    font-size: 22px;
+    padding-top: 2%; 
+}
+.cem{
+    background-color:rgba(48, 43, 48, 0.247);
+    width: 600px;
+    margin-top: 2cm;
+    margin-left: 100px; 
+    padding-left: 2%; 
+    padding-right: 2% ;
+}
+.linea{
+    background-color:rgba(48, 43, 48, 0.247);
+    width: 600px;
+    margin-left: 700px; 
+    padding-left: 2%; 
+    padding-right: 2% ;
+}
+.chat{
+    background-color:rgba(48, 43, 48, 0.247);
+    width: 600px;
+    margin-left: 100px; 
+    padding-left: 2%; 
+    padding-right: 2% ;
+}
+.video1{
+    margin-left: 500px;
 }
