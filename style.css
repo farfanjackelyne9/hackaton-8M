@@ -70,12 +70,15 @@ text-align : center;
 }
 .result{
     width: 800px;
-    margin-top: 1.5cm;
     font-family: serif;
     font-size: 50px;
-    color: rgba(199, 160, 199, 0.877);
+    color: #FFE4C4;
     background-color:rgba(48, 43, 48, 0.247);
-    margin-left: 280px; 
+    margin-left: 280px;
+    
+}
+#resultado1{
+    padding-top: 2cm;
 }
 input{
     background-color:#FFE4C4;
@@ -118,4 +121,49 @@ input{
 }
 .video1{
     margin-left: 500px;
+}
+#testimonios{
+    padding-top: 1.5cm;
+}
+.testimonio1 p{
+    font-style: italic;
+    font-weight: 600;
+    font-size: 150%;
+    font-family: sans-serif;
+    background-color:rgba(48, 43, 48, 0.247);
+    margin-top: 30px;
+    margin-left: 30%; 
+}
+.testimonio2 p{
+    font-style: italic;
+    font-weight: 600;
+    font-size: 150%;
+    font-family: sans-serif;
+    background-color:rgba(48, 43, 48, 0.247);;
+    margin-top: 30px;
+    margin-right: 35%; 
+}
+.testimonio1 p1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 150%;
+}
+.testimonio2 p2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 150%;
+}
+.wrapper{
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;   
+}
+div .testimonio1 img{
+    float: left;
+    padding-top: 6%;
+}
+div .testimonio2 img{
+    float: right;
+    padding-top: 7%;
 }
